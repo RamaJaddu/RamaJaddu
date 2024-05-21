@@ -1,6 +1,6 @@
-## Hi there 👋
+                                                                     ## Hi there 👋
 
-##I am Rama 🎇🎇🎇
+                                                                    ##I am Rama 🎇🎇🎇
 
 ![image](https://github.com/RamaJaddu/RamaJaddu/assets/90489066/86330a43-f95f-4da7-9ab4-00b0d2db19a1)
 
