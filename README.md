@@ -2,7 +2,10 @@
 
                                                                     ##I am Rama 🎇🎇🎇
 
-                                  ![image](https://github.com/RamaJaddu/RamaJaddu/assets/90489066/86330a43-f95f-4da7-9ab4-00b0d2db19a1)
+ 
+ 
+ 
+  ![image](https://github.com/RamaJaddu/RamaJaddu/assets/90489066/86330a43-f95f-4da7-9ab4-00b0d2db19a1)
 
 
 ![image](https://github.com/RamaJaddu/RamaJaddu/assets/90489066/8f53549c-4a20-4e7b-a566-0e476c58016c)
