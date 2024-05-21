@@ -4,8 +4,15 @@
 
    ----
 
-   - This
-   * is
+   - Adaptability: Ability to quickly adjust to new learning environments and methodologies.
+   * Curiosity: A strong desire to learn and understand new concepts.
+   * Persistence: Willingness to continue learning despite challenges or setbacks.
+   * Critical Thinking: Capability to analyze information logically and make reasoned judgments.
+   * Problem-Solving Skills: Ability to apply knowledge to solve real-world problems.
+   * Organization: Skill in organizing information and study materials effectively.
+   * Collaboration: Working well with others to enhance learning through shared knowledge and perspectives.
+   * Technological Proficiency: Utilizing digital tools and resources to support learning.
+   * Open-Mindedness: Willingness to consider new ideas and approaches.
    ----
  
  
